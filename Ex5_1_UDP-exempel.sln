@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5_1_UDP_klient", "Ex5_1_UDP_klient.csproj", "{5256B717-F646-4DF3-9CEC-519D75D93E2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP klient", "UDP klient.csproj", "{5256B717-F646-4DF3-9CEC-519D75D93E2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP server", "..\UDP server\UDP server.csproj", "{8AF1CBA9-6BFB-477B-B2D3-28AE285F2B09}"
 EndProject

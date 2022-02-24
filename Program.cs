@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ex5_1_UDP_klient
+namespace UDP_klient
 {
     static class Program
     {

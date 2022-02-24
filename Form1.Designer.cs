@@ -1,5 +1,5 @@
 ﻿
-namespace Ex5_1_UDP_klient
+namespace UDP_klient
 {
     partial class Form1
     {
